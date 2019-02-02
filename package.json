@@ -1,0 +1,19 @@
+{
+  "name": "loomioth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Kiesel (gdpelican)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "web3": "^1.0.0-beta.41"
+  },
+  "devDependencies": {
+    "dotenv": "^6.2.0"
+  }
+}

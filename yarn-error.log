@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/gdpelican/.nvm/versions/node/v10.10.0/bin/node /Users/gdpelican/.yarn/bin/yarn.js add react
+
+PATH: 
+  /Users/gdpelican/.rvm/gems/ruby-2.5.1/bin:/Users/gdpelican/.rvm/gems/ruby-2.5.1@global/bin:/Users/gdpelican/.rvm/rubies/ruby-2.5.1/bin:/Users/gdpelican/.nvm/versions/node/v10.10.0/bin:/Users/gdpelican/.yarn/bin:/Users/gdpelican/workspace/loomio/client/node_modules/webdriver-manager/selenium:/usr/local/opt/android-sdk/build-tools/19.1.0:/usr/local/opt/android-sdk/platform-tools:/usr/local/opt/android-sdk/tools:/usr/local/opt/gradle/bin:/usr/local/opt/maven/bin:/usr/local/opt/ant/bin:/usr/local/bin:/Users/gdpelican/workspace/loomio/client/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/gdpelican/.rvm/bin
+
+Yarn version: 
+  1.9.4
+
+Node version: 
+  10.10.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/gdpelican/workspace/loomioth/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /Users/gdpelican/.yarn/lib/cli.js:1130:59
+      at Generator.next (<anonymous>)
+      at step (/Users/gdpelican/.yarn/lib/cli.js:92:30)
+      at /Users/gdpelican/.yarn/lib/cli.js:103:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
